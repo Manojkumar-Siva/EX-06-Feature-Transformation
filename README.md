@@ -274,3 +274,6 @@ Graphical representation:
 ![](./to9.jpg)
 ![](./to10.jpg)
 
+# RESULT:
+The various feature transformation techniques has been performed on the given datasets and the data are saved to a file.
+
